@@ -15,7 +15,7 @@ A simple web application to manage a list of users. Users can be added with thei
 
 ## Demo
 
-You can see a live demo of the User List application [here](#insert-link-to-demo).
+You can see a live demo of the User List application [here](https://userlistgiorgigurgenidze.netlify.app/).
 
 ## Features
 
