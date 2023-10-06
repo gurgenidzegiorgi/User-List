@@ -33,15 +33,15 @@ const GlobalStyles = createGlobalStyle`
 
 const list = [
 	{
-		userName: "Giorgi Gurgenidze",
+		userName: "Amanda Nunes",
 		age: 21,
 	},
 	{
-		userName: "Zura Gurgenidze",
+		userName: "Jimi bigvava",
 		age: 60,
 	},
 	{
-		userName: "Shorena Kvitsiani",
+		userName: "Janet Kerdikoshvili",
 		age: 50,
 	},
 ];
